@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "iterator": "cpp",
+    "ostream": "cpp",
+    "__tree": "cpp",
+    "algorithm": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "__config": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled",
+  "C_Cpp.default.compilerPath": "/usr/local/bin/g++-11"
+}
