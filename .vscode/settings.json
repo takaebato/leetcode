@@ -13,5 +13,6 @@
     "string": "cpp"
   },
   "C_Cpp.errorSquiggles": "Enabled",
-  "C_Cpp.default.compilerPath": "/usr/local/bin/g++-11"
+  "C_Cpp.default.compilerPath": "/usr/local/bin/g++-11",
+  "java.format.settings.url": "eclipse-formatter.xml"
 }
